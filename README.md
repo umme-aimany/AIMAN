@@ -1,5 +1,5 @@
 # Aiman
-<h1 align="center">Hi 👋, I'm Iqra Naz</h1>
+<h1 align="center">Hi 👋, I'm Umme Aiman</h1>
 <h3 align="center">A passionate software engineer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqranaz240&label=Profile%20views&color=0e75b6&style=flat" alt="iqranaz240" /> </p>
